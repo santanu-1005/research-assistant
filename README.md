@@ -2,7 +2,7 @@
 
 An AI-powered Chrome extension designed to assist users in summarizing content and managing research notes. It integrates with a Spring Boot backend that uses the Gemini API to generate summaries based on selected text and allows users to save notes locally.
 
-![Extension Screenshot](extension-screenshot.png) <!-- Replace with your screenshot -->
+![Extension Screenshot](asset/screenshot.png) <!-- Replace with your screenshot -->
 
 ---
 
